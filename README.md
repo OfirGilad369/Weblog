@@ -8,7 +8,7 @@
 ##### 2. in path: "/website" run:
 ```npm start```
 
-##### 3. in order to login as 'admin' go to path (on the browse):
+##### 3. in order to login as 'admin' go to path (on the browser):
 ```/admin```
 
 ### Installed libraries on "/website":
